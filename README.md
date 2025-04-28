@@ -142,8 +142,9 @@ Rick and Morty Mobile Application — это мобильное приложен
 
 ---
 #  Демоверсия 
-   [Смотреть видео демо]([https://www.example.com/demo-video](https://www.canva.com/design/DAGl8q3gAiA/E36zp1kkLQ2cZ-FMMvlIMA/edit?utm_content=DAGl8q3gAiA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
+   [Смотреть видео демо]([https://www.example.com/demo-video](https://www.canva.com/design/DAGl8q3gAiA/E36zp1kkLQ2cZ-FMMvlIMA/edit?utm_content=DAGl8q3gAiA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+   
+---
 #  Известные проблемы
 
 - Возможны ошибки при недоступности внешнего Rick and Morty API.
